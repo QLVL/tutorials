@@ -1,0 +1,676 @@
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building item frequency list...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.vocab:Saving frequency list (vocabulary)... (in 'utf-8')
+INFO:nephosem.core.vocab:Saving frequency list (vocabulary)... (in 'utf-8')
+INFO:nephosem.core.vocab:Stored in .//output//Toy.nfreq
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building collocate frequency matrix...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28793/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28785/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28797/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28761/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28757/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28781/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28773/sub.0
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28777/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28769/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28789/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/28765/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.matrix:
+Saving matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Scanning tokens of queries in corpus...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+INFO:nephosem.specutils.mxcalc:  Operation: addition 'token-feature weight matrix' X 'socc matrix'...
+INFO:nephosem.specutils.mxcalc:  Operation: weighted mean 'token-feature weight matrix' X 'socc matrix'...
+INFO:nephosem.specutils.mxcalc:  Operation: weighted mean 'token-feature weight matrix' X 'socc matrix'...
+INFO:nephosem.core.matrix:
+Saving matrix...
+INFO:nephosem.core.matrix:
+Saving matrix...
+INFO:nephosem.specutils.mxcalc:  Operation: weighted mean 'token-feature weight matrix' X 'socc matrix'...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building item frequency list...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.vocab:Saving frequency list (vocabulary)... (in 'utf-8')
+INFO:nephosem.core.vocab:Stored in .//output//Toy.nfreq
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building collocate frequency matrix...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31834/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31818/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31822/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31794/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31806/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31798/sub.0
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31802/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31790/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31810/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31826/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/31830/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.matrix:
+Saving matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Scanning tokens of queries in corpus...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+INFO:nephosem.specutils.mxcalc:  Operation: weighted mean 'token-feature weight matrix' X 'socc matrix'...
+INFO:nephosem.core.matrix:
+Saving matrix...
+INFO:nephosem.core.matrix:
+Saving matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building item frequency list...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.vocab:Saving frequency list (vocabulary)... (in 'utf-8')
+INFO:nephosem.core.vocab:Stored in .//output//Toy.nfreq
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Building collocate frequency matrix...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33082/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33046/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33062/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33054/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33042/sub.0
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33038/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33066/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33050/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33058/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:Saved the tmp matrix into /home/mariana/tmp/col.freq/33070/sub.0
+DEBUG:nephosem.models.typetoken:worker exiting
+INFO:nephosem.core.matrix:
+Saving matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.typetoken:Scanning tokens of queries in corpus...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.typetoken:worker exiting
+DEBUG:nephosem.models.typetoken:worker exiting
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
+WARNING:nephosem.core.handler:Not provide the temporary path!
+WARNING:nephosem.core.handler:Use the default tmp directory: '~/tmp'!
+INFO:nephosem.models.deprel:Building dependency features...
+DEBUG:nephosem.core.handler:putting all jobs into queue
+DEBUG:nephosem.core.handler:job loop exiting, total 12 jobs
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+DEBUG:nephosem.models.deprel:worker exiting
+INFO:nephosem.models.deprel:Building matrix...
