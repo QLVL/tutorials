@@ -1,0 +1,7 @@
+output/create-clouds/
+for-nephovis/
+log.log nephosem.log testlog.log
+processClouds*
+*.log
+weightContexts.ipynb
+.ipynb_checkpoints
